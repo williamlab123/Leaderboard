@@ -1,1 +1,1 @@
-# Leaderboard
+A simple Leaderboard prototype in c#. It generates random scores and add them to the names(inputs) the user made. It still dont put in descending order because i dont know how to do that, as soon as i know i'll update the code. 

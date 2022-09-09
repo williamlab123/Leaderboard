@@ -1,0 +1,15 @@
+/home/willi/Desktop/programas/c#/leaderboard/bin/Debug/net6.0/leaderboard
+/home/willi/Desktop/programas/c#/leaderboard/bin/Debug/net6.0/leaderboard.deps.json
+/home/willi/Desktop/programas/c#/leaderboard/bin/Debug/net6.0/leaderboard.runtimeconfig.json
+/home/willi/Desktop/programas/c#/leaderboard/bin/Debug/net6.0/leaderboard.dll
+/home/willi/Desktop/programas/c#/leaderboard/bin/Debug/net6.0/leaderboard.pdb
+/home/willi/Desktop/programas/c#/leaderboard/obj/Debug/net6.0/leaderboard.csproj.AssemblyReference.cache
+/home/willi/Desktop/programas/c#/leaderboard/obj/Debug/net6.0/leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+/home/willi/Desktop/programas/c#/leaderboard/obj/Debug/net6.0/leaderboard.AssemblyInfoInputs.cache
+/home/willi/Desktop/programas/c#/leaderboard/obj/Debug/net6.0/leaderboard.AssemblyInfo.cs
+/home/willi/Desktop/programas/c#/leaderboard/obj/Debug/net6.0/leaderboard.csproj.CoreCompileInputs.cache
+/home/willi/Desktop/programas/c#/leaderboard/obj/Debug/net6.0/leaderboard.dll
+/home/willi/Desktop/programas/c#/leaderboard/obj/Debug/net6.0/refint/leaderboard.dll
+/home/willi/Desktop/programas/c#/leaderboard/obj/Debug/net6.0/leaderboard.pdb
+/home/willi/Desktop/programas/c#/leaderboard/obj/Debug/net6.0/leaderboard.genruntimeconfig.cache
+/home/willi/Desktop/programas/c#/leaderboard/obj/Debug/net6.0/ref/leaderboard.dll
